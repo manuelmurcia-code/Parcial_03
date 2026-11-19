@@ -18,7 +18,7 @@ import Modelo.Monje;
 import Modelo.Paladin;
 import Modelo.Picaro;
 import Modelo.RegistroGremio;
-import vista.VistaGremio;
+import Vista.VistaGremio;
 /**
  *
  * @author Manue

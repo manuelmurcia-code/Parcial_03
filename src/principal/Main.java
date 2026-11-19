@@ -4,10 +4,10 @@
  */
 package principal;
 
-import controlador.ControladorGremio;
+import Controlador.ControladorGremio;
 import javax.swing.SwingUtilities;
-import modelo.RegistroGremio;
-import vista.VistaGremio;
+import Modelo.RegistroGremio;
+import Vista.VistaGremio;
 
 /**
  *

@@ -1,0 +1,8 @@
+[2026-11-19 03:43:43] REGISTRO: Guerrero | Nombre: MANUEL | Nivel: 20 | Vida: 100 | Armadura pesada: Sí
+[2026-11-19 03:47:55] REGISTRO: Mago | Nombre: ma | Nivel: 1 | Vida: 10 | Espacios de conjuro: 10
+[2026-11-19 03:54:33] REGISTRO: Guerrero | Nombre: ma | Nivel: 1 | Vida: 1 | Armadura pesada: Sí
+[2026-11-19 04:03:03] REGISTRO: Guerrero | Nombre: ma | Nivel: 1 | Vida: 1 | Armadura pesada: Sí
+[2026-11-19 04:04:40] REGISTRO: Guerrero | Nombre: ma | Nivel: 1 | Vida: 1 | Armadura pesada: Sí
+[2026-11-19 04:04:43] COMBATE: El Guerrero ma usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 04:05:42] REGISTRO: Mago | Nombre: 1 | Nivel: 1 | Vida: 1 | Espacios de conjuro: 1
+[2026-11-19 04:05:45] COMBATE: El Mago 1 gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
