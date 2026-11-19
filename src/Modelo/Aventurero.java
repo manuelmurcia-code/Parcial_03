@@ -92,9 +92,5 @@ public abstract class Aventurero implements AccionCombate
         return getClase() + " | Nombre: " + nombre + " | Nivel: " + nivel
                 + " | Vida: " + puntosVida + " | " + getAtributoEspecial();
     }
-
-    @Override
-    public String ejecutarCombate() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
+    
 }
